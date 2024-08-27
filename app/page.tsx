@@ -1,7 +1,9 @@
 import About from "@/components/about";
 import Intro from "@/components/intro";
+import MyExperience from "@/components/my-experience";
 import Projects from "@/components/projects";
 import SectionDivider from "@/components/section-divider";
+import Skills from "@/components/skills";
 import Image from "next/image";
 
 export default function Home() {
@@ -11,6 +13,8 @@ export default function Home() {
      <SectionDivider/>
      <About/>
      <Projects/>
+     <Skills/>
+     <MyExperience/>
     </main>
   );
 }

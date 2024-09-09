@@ -20,31 +20,20 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
-      </p>
+  I'm a Software Engineer based in Boston, currently pursuing my Master’s in{" "}
+  <span className="font-medium">Computer Software Engineering</span>. My journey includes working directly with the founders at{" "}
+  <span className="font-medium">countrify.app</span>, an early-stage E-commerce startup connecting businesses, and serving as a{" "}
+  <span className="font-medium">Mitacs Globalink Research Intern</span> at Wilfrid Laurier University, a highly competitive, fully-funded global internship program. I specialize in{" "}
+  <span className="font-medium">Domain-Driven Design</span>,{" "}
+  <span className="font-medium">Test-Driven Development</span>, and have a solid grasp of{" "}
+  <span className="font-medium">Python, MySQL, Flask, and Django</span>. 
+</p>
 
-      <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
-      </p>
+<p>
+  Along with that, I’m skilled in{" "}
+  <span className="font-medium">React, Node.js, MongoDB, TypeScript, and JavaScript</span>. I believe the best products solve real-world problems—fancy features come second to value and impact. I'm always eager to learn new technologies and grow with each project I take on. 
+</p>
+
     </motion.section>
   )
 }

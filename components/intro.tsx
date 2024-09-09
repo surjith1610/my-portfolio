@@ -48,11 +48,11 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Surjith.</span> I'm a{" "}
-        <span className="font-bold">full-stack developer</span> with{" "}
-        <span className="font-bold">2 years</span> of experience. I enjoy
-        building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">Full stack Development</span>.
+        <p>
+  <span className="font-bold">Hi, I'm Surjith</span>, a{" "}
+  <span className="font-bold">Software Engineer</span>. I’m passionate about solving real-world problems through impactful solutions and am always eager to learn and grow.
+</p>
+
       </motion.h1>
 
       <motion.div className='flex flex-col sm:flex-row items-center 
@@ -71,10 +71,10 @@ export default function Intro() {
           href="/CV.pdf"
           download>Download CV <HiDownload  className="opacity-60 group-hover:translate-y-1 transition"/> </a>
         <a  className="!bg-white p-4 !text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://linkedin.com"
+          href="https://www.linkedin.com/in/surjith-senthil/"
           target="_blank"> <BsLinkedin/> </a>
         <a className="!bg-white p-4 !text-gray-700 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://github.com"
+          href="https://github.com/surjith1610"
           target="_blank"> <FaGithub/> </a>
       </motion.div>
     </section>

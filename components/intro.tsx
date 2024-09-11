@@ -9,6 +9,7 @@ import { HiDownload } from 'react-icons/hi';
 import { FaGithub } from 'react-icons/fa';
 import { useSectionInView } from '@/lib/hooks';
 import { useActiveSectionContext } from '@/context/active-section-context';
+import ss from '@/public/ss.jpg'
 
 export default function Intro() {
 
@@ -32,7 +33,7 @@ export default function Intro() {
              type: "tween",
              duration: 0.2,
            }}>
-                <Image src=""
+                <Image src={ss}
                 alt="Surjith portrait"
               width="192"
               height="192"

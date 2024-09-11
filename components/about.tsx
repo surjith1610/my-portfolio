@@ -20,7 +20,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-  I&apos;m a Software Engineer based in Boston, currently pursuing my Master’s in 
+  I&apos;m a Software Engineer based in Boston, currently pursuing my Master&apos;s in 
   <span className="font-medium">Computer Software Engineering</span>. My journey includes working directly with the founders at 
   <span className="font-medium">countrify.app</span>, an early-stage E-commerce startup connecting businesses, and serving as a 
   <span className="font-medium">Mitacs Globalink Research Intern</span> at Wilfrid Laurier University, a highly competitive, fully-funded global internship program. I specialize in 

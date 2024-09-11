@@ -20,14 +20,15 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-  I'm a Software Engineer based in Boston, currently pursuing my Master’s in{" "}
-  <span className="font-medium">Computer Software Engineering</span>. My journey includes working directly with the founders at{" "}
-  <span className="font-medium">countrify.app</span>, an early-stage E-commerce startup connecting businesses, and serving as a{" "}
-  <span className="font-medium">Mitacs Globalink Research Intern</span> at Wilfrid Laurier University, a highly competitive, fully-funded global internship program. I specialize in{" "}
-  <span className="font-medium">Domain-Driven Design</span>,{" "}
-  <span className="font-medium">Test-Driven Development</span>, and have a solid grasp of{" "}
-  <span className="font-medium">Python, MySQL, Flask, and Django</span>. 
+  I&apos;m a Software Engineer based in Boston, currently pursuing my Master’s in 
+  <span className="font-medium">Computer Software Engineering</span>. My journey includes working directly with the founders at 
+  <span className="font-medium">countrify.app</span>, an early-stage E-commerce startup connecting businesses, and serving as a 
+  <span className="font-medium">Mitacs Globalink Research Intern</span> at Wilfrid Laurier University, a highly competitive, fully-funded global internship program. I specialize in 
+  <span className="font-medium">Domain-Driven Design</span>, 
+  <span className="font-medium">Test-Driven Development</span>, and have a solid grasp of 
+  <span className="font-medium">Python, MySQL, Flask, and Django</span>.
 </p>
+
 
 <p>
   Along with that, I’m skilled in{" "}

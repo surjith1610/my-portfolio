@@ -31,7 +31,7 @@ export default function About() {
 
 
 <p>
-  Along with that, I’m skilled in{" "}
+  Along with that, I&apos;m skilled in{" "}
   <span className="font-medium">React, Node.js, MongoDB, TypeScript, and JavaScript</span>. I believe the best products solve real-world problems—fancy features come second to value and impact. I'm always eager to learn new technologies and grow with each project I take on. 
 </p>
 
